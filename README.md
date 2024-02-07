@@ -1,5 +1,7 @@
 # https://kitspace.org
 
+This project is built using kitspace and copied from the original kitspace file. - GGB
+
 [![Build and deploy workflow status badge](https://github.com/kitspace/kitspace/actions/workflows/build_and_deploy.yml/badge.svg?branch=master)](https://github.com/kitspace/kitspace/actions/workflows/build_and_deploy.yml?query=branch%3Amaster)
 [![Backers on Open Collective](https://opencollective.com/kitspace/backers/badge.svg)](#backers)
 [![Sponsors on Open Collective](https://opencollective.com/kitspace/sponsors/badge.svg)](#sponsors)
@@ -43,6 +45,7 @@ You can get similar renderings and also inspect invdividual layers, using the [T
 
 ### kitspace.yaml format
 
+One thing I'm not entirely sure about is whether the kitspace.yaml file is located somewhere else in the file tree or literally just in this folder. I am guessing it must be somewhere else in the file tree -GGB
 Currently the `kitspace.yaml` makes use of the following fields:
 
 ```yaml
